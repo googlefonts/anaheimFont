@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb.case" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="dblgravecomb" xOffset="40" yOffset="20"/>
+    <contour>
+      <point x="1" y="985" type="move" name="_top_case"/>
+    </contour>
+    <contour>
+      <point x="1" y="1341" type="move" name="top_case"/>
+    </contour>
+  </outline>
+</glyph>

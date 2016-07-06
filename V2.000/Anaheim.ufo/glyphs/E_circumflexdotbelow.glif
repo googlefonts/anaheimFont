@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexdotbelow" format="1">
+  <advance width="921"/>
+  <unicode hex="1EC6"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="494"/>
+    <component base="circumflexcomb.case" xOffset="493" yOffset="-1113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
