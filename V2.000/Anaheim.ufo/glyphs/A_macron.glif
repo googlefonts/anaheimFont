@@ -4,6 +4,6 @@
   <unicode hex="0100"/>
   <outline>
     <component base="A"/>
-    <component base="macron" xOffset="236" yOffset="386"/>
+    <component base="macroncomb.case" xOffset="550" yOffset="298"/>
   </outline>
 </glyph>

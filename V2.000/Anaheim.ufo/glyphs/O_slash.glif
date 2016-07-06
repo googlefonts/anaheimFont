@@ -5,6 +5,9 @@
   <outline>
     <component base="O"/>
     <component base="slash" xOffset="123" yOffset="-46"/>
+    <contour>
+      <point x="567" y="1284" type="move" name="top_case"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -4,12 +4,6 @@
   <unicode hex="0217"/>
   <outline>
     <component base="u"/>
-    <component base="breveinvertedcomb" xOffset="52" yOffset="132"/>
+    <component base="breveinvertedcomb" xOffset="493" yOffset="-18"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

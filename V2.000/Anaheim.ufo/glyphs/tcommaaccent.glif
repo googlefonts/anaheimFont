@@ -3,13 +3,7 @@
   <advance width="742"/>
   <unicode hex="021B"/>
   <outline>
-    <component base="comma" xOffset="142" yOffset="-383"/>
     <component base="t"/>
+    <component base="commaaccentcomb" xOffset="450"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:26:10 +0000</string>
-    </dict>
-  </lib>
 </glyph>

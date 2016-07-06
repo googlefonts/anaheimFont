@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedi" format="1">
+  <advance width="1014"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="527" y="1465" type="line"/>
+      <point x="611" y="1465" type="line"/>
+      <point x="611" y="-188" type="line"/>
+      <point x="527" y="-188" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+</glyph>

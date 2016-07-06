@@ -18,11 +18,14 @@
       <point x="550" y="1174" type="line"/>
       <point x="323" y="420" type="line"/>
     </contour>
+    <contour>
+      <point x="977" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="541" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="550" y="1283" type="move" name="top_case"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

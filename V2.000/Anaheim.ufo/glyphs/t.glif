@@ -4,6 +4,8 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
+      <point x="597" y="-8"/>
+      <point x="533" y="-10"/>
       <point x="472" y="-10" type="curve"/>
       <point x="258" y="-4"/>
       <point x="209" y="119"/>
@@ -26,14 +28,18 @@
       <point x="629" y="99"/>
       <point x="656" y="103" type="curve"/>
       <point x="661" y="0" type="line"/>
-      <point x="597" y="-8"/>
-      <point x="533" y="-10"/>
+    </contour>
+    <contour>
+      <point x="467" y="0" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="486" y="1267" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="473" y="1428" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

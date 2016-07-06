@@ -43,11 +43,11 @@
       <point x="246" y="264"/>
       <point x="316" y="96"/>
     </contour>
+    <contour>
+      <point x="566" y="1284" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="566" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

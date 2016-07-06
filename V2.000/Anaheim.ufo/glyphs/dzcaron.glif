@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dzcaron" format="1">
-  <advance width="1809"/>
+  <advance width="1709"/>
   <unicode hex="01C6"/>
   <outline>
     <component base="d"/>
-    <component base="zcaron" xOffset="1010"/>
+    <component base="zcaron" xOffset="910"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:26:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=d</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=z</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>zcaron</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

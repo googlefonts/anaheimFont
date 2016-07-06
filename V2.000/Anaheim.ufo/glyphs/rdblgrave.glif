@@ -4,12 +4,6 @@
   <unicode hex="0211"/>
   <outline>
     <component base="r"/>
-    <component base="dblgravecomb" xOffset="-168" yOffset="190"/>
+    <component base="dblgravecomb" xOffset="363"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

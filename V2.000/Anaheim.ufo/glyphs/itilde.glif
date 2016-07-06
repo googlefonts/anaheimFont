@@ -4,12 +4,6 @@
   <unicode hex="0129"/>
   <outline>
     <component base="idotless"/>
-    <component base="tilde" xOffset="-81" yOffset="691"/>
+    <component base="tildecomb" xOffset="320" yOffset="49"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:26:11 +0000</string>
-    </dict>
-  </lib>
 </glyph>

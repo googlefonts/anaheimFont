@@ -4,26 +4,6 @@
   <unicode hex="012F"/>
   <outline>
     <component base="i"/>
-    <component base="i" xOffset="679"/>
-    <component base="i" xOffset="1358"/>
-    <component base="i" xOffset="2037"/>
-    <component base="i" xOffset="2716"/>
-    <component base="i" xOffset="3395"/>
-    <component base="i" xOffset="4074"/>
-    <component base="i" xOffset="4753"/>
-    <component base="ogonek" xOffset="-196" yOffset="128"/>
-    <component base="ogonek" xOffset="-193" yOffset="128"/>
-    <component base="ogonek" xOffset="-194" yOffset="128"/>
-    <component base="ogonek" xOffset="-195" yOffset="128"/>
-    <component base="ogonek" xOffset="-192" yOffset="128"/>
-    <component base="ogonek" xOffset="-197" yOffset="128"/>
-    <component base="ogonek" xOffset="-198" yOffset="128"/>
-    <component base="ogonek" xOffset="-191" yOffset="128"/>
+    <component base="ogonekcomb" xOffset="385"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:17:40 +0000</string>
-    </dict>
-  </lib>
 </glyph>

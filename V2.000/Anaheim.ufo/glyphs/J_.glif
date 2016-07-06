@@ -23,11 +23,11 @@
       <point x="105" y="1184" type="line"/>
       <point x="105" y="1284" type="line"/>
     </contour>
+    <contour>
+      <point x="322" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="322" y="1284" type="move" name="top_case"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

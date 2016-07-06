@@ -29,11 +29,11 @@
       <point x="323" y="1176"/>
       <point x="283" y="1208"/>
     </contour>
+    <contour>
+      <point x="385" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

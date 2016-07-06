@@ -33,11 +33,14 @@
       <point x="594" y="94"/>
       <point x="666" y="113"/>
     </contour>
+    <contour>
+      <point x="498" y="0" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="432" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="496" y="985" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

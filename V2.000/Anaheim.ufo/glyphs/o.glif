@@ -31,6 +31,21 @@
       <point x="876" y="182"/>
       <point x="759" y="-10"/>
     </contour>
+    <contour>
+      <point x="492" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="625" y="30" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="492" y="985" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="964" y="985" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="492" y="493" type="move" name="center"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -67,8 +82,6 @@
           </dict>
         </array>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-06 04:16:23 +0000</string>
     </dict>
   </lib>
 </glyph>

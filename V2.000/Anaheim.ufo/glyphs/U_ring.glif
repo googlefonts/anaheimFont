@@ -4,6 +4,21 @@
   <unicode hex="016E"/>
   <outline>
     <component base="U"/>
-    <component base="degree" xOffset="191" yOffset="547"/>
+    <component base="ringcomb.case" xOffset="540" yOffset="329"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
