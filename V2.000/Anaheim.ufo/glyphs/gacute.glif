@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gacute" format="1">
+  <advance width="1092"/>
+  <unicode hex="01F5"/>
+  <outline>
+    <component base="acute" xOffset="408" yOffset="190"/>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 04:26:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

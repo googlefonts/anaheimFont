@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcaron" format="1">
+  <advance width="1809"/>
+  <unicode hex="01C6"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="1010"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 04:26:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

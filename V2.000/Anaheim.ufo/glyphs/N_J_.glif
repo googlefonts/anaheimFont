@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NJ" format="1">
+  <advance width="1836"/>
+  <unicode hex="01CA"/>
+  <outline>
+    <component base="J"/>
+    <component base="N" xOffset="643"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 04:26:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

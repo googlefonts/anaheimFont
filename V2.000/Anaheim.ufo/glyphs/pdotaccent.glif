@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pdotaccent" format="1">
+  <advance width="982"/>
+  <unicode hex="1E57"/>
+  <outline>
+    <component base="dotaccent" xOffset="520" yOffset="1000"/>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 04:26:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>
