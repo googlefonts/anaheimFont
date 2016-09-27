@@ -1,4 +1,5 @@
-anaheimFont
-===========
+# Anaheim
 
-repo for Anaheim Font Family
+---
+
+Repository for the Anaheim Font Family designed by Vernon Adams.
