@@ -15518,15 +15518,6 @@ width = 355;
 );
 },
 {
-glyphname = .null;
-layers = (
-{
-layerId = "1D628CB9-BBF5-410A-9D74-9E6094BFE839";
-width = 600;
-}
-);
-},
-{
 glyphname = cedi;
 layers = (
 {
@@ -23275,6 +23266,7 @@ layerId = "1D628CB9-BBF5-410A-9D74-9E6094BFE839";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesNiceNames = 1;
