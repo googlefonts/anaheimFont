@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Anaheim</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>copyright</key>
+	<string>Copyright (c) 2010-12 by vernon adams. All rights reserved.</string>
+	<key>trademark</key>
+	<string>Anaheim is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>985</integer>
+	<key>capHeight</key>
+	<integer>1284</integer>
+	<key>ascender</key>
+	<integer>1308</integer>
+	<key>descender</key>
+	<integer>-389</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/08/09 22:53:09</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://code.newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://code.newtypography.co.uk</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2010-12, vernon adams (vern@newtypography.co.uk),
+with Reserved Font Name Anaheim.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.000</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Anaheim Regular</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2010-12 by vernon adams. All rights reserved.</string>
+	<key>openTypeNamePreferedFamilyName</key>
+	<string>Anaheim</string>
+	<key>openTypeNamePreferedSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Anaheim</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1968</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-672</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1968</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>672</integer>
+	<key>postscriptFontName</key>
+	<string>Anaheim-Regular</string>
+	<key>postscriptFullName</key>
+	<string>Anaheim Regular</string>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>985</integer>
+		<integer>1000</integer>
+		<integer>1284</integer>
+		<integer>1308</integer>
+		<integer>1358</integer>
+		<integer>1377</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-390</integer>
+		<integer>-340</integer>
+	</array>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625000208616257</real>
+	<key>macintoshFONDName</key>
+	<string>Annaheim</string>
+    </dict>
+</plist>
