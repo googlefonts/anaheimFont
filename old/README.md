@@ -1,4 +1,1 @@
-anaheimFont
-===========
-
-repo for Anaheim Font Family
+To generate the fonts with Glyphsapp, replace the GlyphData.xml file in this dir with the one Glyphsapp uses, https://glyphsapp.com/tutorials/roll-your-own-glyph-data
