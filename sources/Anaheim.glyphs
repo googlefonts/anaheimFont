@@ -1,9 +1,6 @@
 {
 .appVersion = "3251";
 .formatVersion = 3;
-DisplayStrings = (
-"ʼ"
-);
 axes = (
 {
 name = Weight;
@@ -79716,7 +79713,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2012 The Anaheim Project Authors (https://github.com/Fonthausen/anaheimFont)";
+value = "Copyright 2012 The Anaheim Project Authors (https://github.com/googlefonts/anaheimFont)";
 }
 );
 },
